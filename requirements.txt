@@ -1,0 +1,6 @@
+gradio
+requests
+beautifulsoup4
+groq
+schedule
+python-dotenv
